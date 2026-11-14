@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.env
+.npm/
+.cache/
+.local/
+.config/
+.bash*
+.profile
+.gitconfig
+data/*.tmp
+stackvault-launch-bundle.zip
+.DS_Store
